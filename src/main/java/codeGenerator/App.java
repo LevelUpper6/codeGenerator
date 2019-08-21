@@ -24,6 +24,7 @@ public class App {
     private static final String tableName = "unrepaired";   // 表名
     private static final String pack = "main.java.codeGenerator.model";// 存放位置
     private static final List<String> sysBaseField = Arrays.asList("id", "createTime", "updateTime", "creatorId", "updaterId", "siteNum", "deleted");
+
     private static final String what = "model.ftl";// model, dto, query, results. todo: 选择模版文件,来生成不同的javaBean
 
     public static void main(String... args) {
