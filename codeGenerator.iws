@@ -16,7 +16,7 @@
     <option name="delegatedBuild" value="true" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JRebelWorkspace">
     <option name="jrebelEnabledAutocompile" value="true" />
@@ -39,6 +39,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="C:/devspace/hvision" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -98,7 +99,7 @@
       <workItem from="1566265362672" duration="11731000" />
       <workItem from="1566279699633" duration="911000" />
       <workItem from="1566282713610" duration="676000" />
-      <workItem from="1566351006149" duration="5142000" />
+      <workItem from="1566351006149" duration="5748000" />
     </task>
     <servers />
   </component>
